@@ -1,0 +1,3 @@
+module INVERNTORY-SYSTEM
+
+go 1.27.1

@@ -1,0 +1,31 @@
+{
+  "Products": [
+    {
+      "ID": 1,
+      "Name": "Macbook Air 1",
+      "Category": "",
+      "Price": 1500,
+      "Quantity": 90,
+      "CreatedAt": "2026-09-20T18:10:10.7347684+03:00"
+    }
+  ],
+  "Customers": [
+    {
+      "ID": 1,
+      "Name": "Liban",
+      "Email": "liban@gmail.com",
+      "PhoneNumber": "0634081104",
+      "CreatedAt": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "Orders": [
+    {
+      "ID": 1,
+      "CustomerID": 1,
+      "Items": null,
+      "OrderDate": "2026-09-20T18:12:55.4488103+03:00",
+      "Status": "Completed",
+      "TotalAmount": 4500
+    }
+  ]
+}
